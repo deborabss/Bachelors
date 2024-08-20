@@ -1,5 +1,5 @@
-/* Leia um valor de temperatura em graus Celsius e converta-o em graus Fahrenheit e Kelvin. As f´ormulas de
-convers˜ao s˜ao:
+/* Leia um valor de temperatura em graus Celsius e converta-o em graus Fahrenheit e Kelvin. As fórmulas de
+conversão são:
 F = (9C + 160)/5
 K = C + 273 */
 
